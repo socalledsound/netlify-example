@@ -2,7 +2,10 @@
 
 function App() {
   return (
-    <div>netlify example here</div>
+    <div style={{backgroundColor: 'red', padding: '2rem'}}>
+      <p style={{color: 'white'}}>this is</p>
+      <p  style={{color: 'white'}}>a netlify site</p>
+    </div>
   );
 }
 
